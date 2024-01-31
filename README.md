@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBQHQ
 <!---  --->
-- 👀 I’m interested in AI, python, SQL, data analysis & machine learning
+- 👀 I’m interested in AI, python, SQL, data analysis, data engineering, and machine learning
 <!--- 🌱 I’m currently learning patience and positivity --->
 - 💞️ I’m looking to collaborate on AI/DA/DS/ML automation
 <!---
