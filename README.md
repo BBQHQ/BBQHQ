@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BBQHQ
+# 👋 Hi, I’m @BBQHQ
 <!---  --->
 - 👀 I’m interested in data science, machine-learning, generative-AI, python, SQL, data analysis, and data engineering!
 <!--- 🌱 I’m currently learning patience and positivity --->
