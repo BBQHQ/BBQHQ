@@ -4,16 +4,16 @@
 <!--- 🌱 I’m currently learning patience and positivity --->
 - 💞️ I’m looking to collaborate on AI/DE/DS/ML automation
 
-# Stack
+# Skill List
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,py,postgres,html,css,obsidian,bash,docker,kafka,opencv,r,sklearn,pytorch,tensorflow)](https://skillicons.dev)
 <!---
 BBQHQ/BBQHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-🔧 **Technical Stack & Skills**
+# 🔧 **Technical Stack & Skills**
 
-- **Programming Languages:** Python, SQL, R (basic)
+- **Programming Languages:** Python, SQL, R, SAS
 - **Data Science & Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
 - **Databases:** MySQL, PostgreSQL, MongoDB
