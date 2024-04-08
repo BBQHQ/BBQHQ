@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 - **Generative AI:** OpenAI, Anthropic, AI21, Pinecone, Chroma, PGVector, Embeddings/Semantic-Search (Various)
 - **Data Visualization:** Matplotlib, Seaborn, PowerBI
 - **Databases:** SQL Server, PostgreSQL, MongoDB
-- **Data Engineering:** Spark, Kafka, Airflow
+- **Data Engineering:** Spark, Kafka, Airflow, FastAPI
 - **Version Control:** Git, GitHub
 - **Cloud:** AWS, Azure
-- **Web:** HTML, CSS, JavaScript
+- **Web:** HTML, CSS, JavaScript, HTTP Requests
 - **Others:** Docker, Jupyter Notebooks, Obsidian, VSCode, Office
