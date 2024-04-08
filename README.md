@@ -2,7 +2,7 @@
 <!---  --->
 - 👀 I’m interested in data science, machine-learning, generative-AI, python, SQL, data analysis, and data engineering!
 <!--- 🌱 I’m currently learning patience and positivity --->
-- 💞️ I’m looking to collaborate on AI/DE/DS/ML automation
+- 💞️ I’m looking to collaborate on AI/DE/DS/ML automation, quickstarts, and other cool stuff!
 
 
 
