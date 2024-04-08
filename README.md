@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 - **Data Engineering:** Spark, Kafka, Airflow
 - **Version Control:** Git, GitHub
 - **Cloud:** AWS, Azure
-- **Web:## HTML, CSS, JavaScript
+- **Web:** HTML, CSS, JavaScript
 - **Others:** Docker, Jupyter Notebooks, Obsidian, VSCode, Office
