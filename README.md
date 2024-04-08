@@ -21,9 +21,3 @@ You can click the Preview link to take a look at your changes.
 - **Version Control:** Git, GitHub
 - **Cloud:** AWS, Azure
 - **Others:** Docker, Jupyter Notebooks, Obsidian
-
-
-📁 **Projects:**
-- [Project Name](GitHub_Project_Link) - A brief description of the project, technologies used, and the problem it solves.
-- [Project Name](GitHub_Project_Link) - A brief description of the project, technologies used, and the problem it solves.
-
