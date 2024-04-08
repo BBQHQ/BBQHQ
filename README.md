@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - **Data Science & Machine Learning:** TensorFlow, PyTorch, Scikit-learn, statsmodels, SpaCy, Pandas, NumPy, OpenCV, MLFlow
 - **Generative AI:** OpenAI, Anthropic, AI21, Pinecone, Chroma, PGVector, Embeddings/Semantic-Search (Various)
 - **Data Engineering:** Spark, Kafka, Airflow, FastAPI
-- **Databases:** SQL Server, PostgreSQL, MongoDB- 
+- **Databases:** SQL Server, PostgreSQL, MongoDB
 - **Data Visualization:** Matplotlib, Seaborn, PowerBI
 - **DevOps:** Git, GitHub, GitHub Actions, Jenkins
 - **Cloud:** AWS, Azure
