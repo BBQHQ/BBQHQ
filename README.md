@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 - **Data Visualization:** Matplotlib, Seaborn, PowerBI
 - **DevOps:** Git, GitHub, GitHub Actions, Jenkins
 - **Cloud:** AWS, Azure
-- **Web:** HTML, CSS, JavaScript, HTTP Requests
+- **Web:** Streamlit, HTML, CSS, JavaScript, HTTP Requests
 - **Others:** Docker, Jupyter Notebooks, Obsidian, VSCode, Office
