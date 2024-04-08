@@ -10,3 +10,19 @@
 BBQHQ/BBQHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+🔧 **Technical Stack & Skills**
+
+- **Programming Languages:** Python, SQL, R (basic)
+- **Data Science & Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Data Engineering:** Apache Spark, Hadoop, Airflow
+- **Version Control:** Git, GitHub
+- **Others:** Docker, Kubernetes (basic understanding), Jupyter Notebooks
+
+
+📁 **Projects:**
+- [Project Name](GitHub_Project_Link) - A brief description of the project, technologies used, and the problem it solves.
+- [Project Name](GitHub_Project_Link) - A brief description of the project, technologies used, and the problem it solves.
+
