@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - **Programming Languages:** Python, SQL, R, SAS
 - **Data Science & Machine Learning:** TensorFlow, PyTorch, Scikit-learn, statsmodels, SpaCy, Pandas, NumPy, OpenCV, MLFlow
-- **Generative AI:** OpenAI, Anthropic, AI21, Pinecone, Chroma, PGVector, Embeddings/Semantic-Search (Various)
+- **Generative AI:** OpenAI, Anthropic, AI21, Mixtral, Pinecone, Chroma, PGVector, Embeddings/Semantic-Search (Various)
 - **Data Engineering:** Spark, Kafka, Airflow, FastAPI, bat
 - **Databases:** SQL Server, PostgreSQL, MongoDB
 - **Data Visualization:** Matplotlib, Seaborn, PowerBI
