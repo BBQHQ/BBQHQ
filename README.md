@@ -13,7 +13,7 @@ BBQHQ/BBQHQ is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 - **Programming Languages:** Python, SQL, R, SAS
-- **Data Science & Machine Learning:** TensorFlow, PyTorch, Scikit-learn, statsmodels, SpaCy, Pandas, NumPy, OpenCV, MLFlow
+- **Data Science & Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-learn, statsmodels, SpaCy, Pandas, NumPy, OpenCV, MLFlow
 - **Generative AI:** OpenAI, Anthropic, AI21, Mixtral, Pinecone, Chroma, PGVector, Embeddings/Semantic-Search (Various)
 - **Data Engineering:** Spark, Kafka, Airflow, FastAPI, bat
 - **Databases:** SQL Server, PostgreSQL, MongoDB
